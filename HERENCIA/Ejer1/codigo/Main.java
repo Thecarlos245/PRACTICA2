@@ -14,7 +14,7 @@ package HERENCIA.Ejer1.codigo;
 //b) Crea instancias de Coche y Moto y muestra su información usando el
 //método mostrar_info().
 //c) Muestra todos los coches que tienen más de 4 puertas.
-//d) Mostrar los coches y motos actuales (gestión 2025)
+//d) Mostrar los coches y motos actuales (gestión 2025).
 
 
 public class Main {
@@ -49,6 +49,5 @@ public class Main {
         }
         return 0;       
     }
-    
     
 }
